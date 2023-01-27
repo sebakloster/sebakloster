@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 <h3 align="center">I'm a Backend developer with my ♥ in Javascript.</h3>
 
-- 🌱 I’m currently learning **at Platzi.**
-
 - 💬 Ask me about **Javascript and Backend Technologies.**
 
 - 📫 How to reach me **sebakloster@gmail.com**
