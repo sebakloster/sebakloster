@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
-<h3 align="center">I'm a Backend developer with my ♥ in Javascript.</h3>
+<h3 align="center">I'm a Backend developer </h3>
 
 - 💬 Ask me about **Javascript and Backend Technologies.**
 
